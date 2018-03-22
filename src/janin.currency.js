@@ -283,6 +283,7 @@ janin.currencies = [
     janin.currency.createCurrency ("Yenten",              0x4e, 0x7b, "5",    "K"    , "YStuCpv1U9iT3L1VqBr52B9nBxrNgt4Fpj"),
     janin.currency.createCurrency ("Zcash",        [0x1c,0xb8], 0x80, "5",    "[LK]" , "t1XA64Hw47QaCxCUEgZbc4FVdH811RMd1xp"),
     janin.currency.createCurrency ("Zetacoin",            0x50, 0xE0, "8",    "a"    , "ZRU6TP8NLzoyey4DPPaa3uCCgDNDc96PXJ"),
+    janin.currency.createCurrency ("Zero",         [0x1c,0xb8], 0x80, "5",    "[LK]" , "t1XpvXbN3UoBZf4yEsmz3oQt9UGp2TCEUu3"),
 
 
 
